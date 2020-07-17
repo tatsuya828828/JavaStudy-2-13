@@ -33,4 +33,12 @@ public class Hero {
 	public Hero() {
 		this("名無し");
 	}
+
+	public String getName() {
+		return this.name;
+	}
+
+	public void attack() {
+		System.out.println(this.name +"は攻撃をした");
+	}
 }
