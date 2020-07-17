@@ -1,0 +1,1 @@
+memberSearchIndex = [{"l":"Hero()","h":"","u":"%3Cinit%3E()"},{"l":"Hero(String)","h":"","u":"%3Cinit%3E(java.lang.String)"},{"l":"hp","h":"","u":""},{"l":"mp","h":"","u":""},{"l":"name","h":"","u":""}]
